@@ -1,3 +1,2 @@
 Nama : Hari Kurniawan
-Stack : Mobile FLutter
-Hobi : Mendengarkan jokes
+Stack : Mobile Flutter
