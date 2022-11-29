@@ -2,3 +2,4 @@ Nama : Hari Kurniawan
 Stack : Mobile Flutter
 Hobi : Programming
 Deskripsi : isi kenapa anda suka programing
+adding commit from computer B
